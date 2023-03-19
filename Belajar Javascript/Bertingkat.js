@@ -1,5 +1,5 @@
 function condisional(){
-  let nilai = prompt('Masukkan Nilai anda:')
+  let nilai = 78;
 
 if (nilai >= 90) {
   swal({

@@ -15,7 +15,7 @@ if (bil3 > 100) {
 }
 
 const rataRata = (bil1 + bil2 + bil3) / 3;
-const hasil = rataRata.toFixed(2)
+const hasil = rataRata.toFixed(2                        )
 
 if (rataRata >= 90) {
     swal({
